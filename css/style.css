@@ -1,0 +1,58 @@
+/*Write your style here*/
+#principal{
+	width: 900px;
+	height: 100px;
+	background: #3B3D64;
+	color: #E2E1D2;
+
+	
+	
+}
+
+p{
+	color:black ;
+}
+#nose li{
+	color: #F7F4F4  ;
+}
+#nose{
+	color: #F7F4F4  ;
+}
+#principal2{
+	background: #F7F4F4;
+}
+h1{
+	color: #E2E1D2;
+	
+}
+header{
+	width: 900px;
+	height: 100px;
+	color: #E2E1D2;
+
+	display: inline;
+}
+#logo{
+	width: 200px;
+	height: 100px;
+    color: #E2E1D2;
+	float: left;
+}
+#uno{
+	font-family: #E2E1D2;
+	color: #E2E1D2;
+}
+#dos{
+	width: 600px;
+	height: 40px;
+    color: #E2E1D2;
+	float: right;
+	display: inline;
+
+}
+#header{
+	display:inline;
+}
+#tres{
+	color:#F31410  ;
+}
